@@ -1,0 +1,2 @@
+# jsInCorner
+Сurious JavaScript cases
