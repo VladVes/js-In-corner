@@ -2,7 +2,7 @@ var theThing = null;
 var replaceThing = function () {
   var originalThing = theThing;
   var unused = function () {
-    if (originalThing) // ссылка на originalThing
+    if (originalThing)
       console.log("hi");
   };
   theThing = {
